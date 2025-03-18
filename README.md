@@ -35,7 +35,7 @@ This project presents an **interactive sales analysis dashboard** built using **
 3. Use **filters & slicers** to analyze trends dynamically.  
 
 ## 📁 Files Included  
- <a href="https://github.com/Vamshiaheer143/Blinkit_Sales_Analysis_Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel%20(Recovered).xlsx"> view dashboard </a>
+ <a href="https://github.com/Vamshiaheer143/Blinkit_Sales_Analysis_Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx"> view dataset </a>
  <a href="https://github.com/Vamshiaheer143/Blinkit_Sales_Analysis_Dashboard/blob/main/blinkit%20dashboard.png"> view dashboard screen shot
 
   
