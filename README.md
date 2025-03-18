@@ -27,8 +27,19 @@ This project presents an **interactive sales analysis dashboard** built using **
 - Impact of fat content on sales  
 - Performance comparison across item types  
 - Geographic distribution of sales  
-- Effect of outlet size & establishment type on revenue
+- Effect of outlet size & establishment type on revenue  
+
+## 🚀 How to Use  
+1. Open the **Excel dashboard file**  <a href="https://github.com/Vamshiaheer143/Blinkit_Sales_Analysis_Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel%20(Recovered).xlsx">  DashBoard.  
+2. Navigate through different **charts & pivot tables**.  
+3. Use **filters & slicers** to analyze trends dynamically.  
+
+## 📁 Files Included  
+ <a href="https://github.com/Vamshiaheer143/Blinkit_Sales_Analysis_Dashboard/blob/main/BlinkIT%20Grocery%20Data%20Excel%20(Recovered).xlsx"> view dashboard </a>
+ <a href="https://github.com/Vamshiaheer143/Blinkit_Sales_Analysis_Dashboard/blob/main/blinkit%20dashboard.png"> view dashboard screen shot
+
   
-## 📧 Contact  
+
+## 📧 Contact 
 For any questions or collaborations, feel free to reach out!
 
